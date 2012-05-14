@@ -13,3 +13,4 @@ DEFAULT_PAGINATION = 2
 
 SOCIAL = (('lastfm', 'http://lastfm.com/user/droneru'),
           ('github', 'http://github.com/droneru'),)
+
