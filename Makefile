@@ -1,5 +1,5 @@
 all:
-	/usr/local/bin/pelican ~/droneru.github.com/source -o ~/droneru.github.com -s ~/droneru.github.com/source/settings.py
+	/usr/bin/pelican ~/src/droneru.github.com/source -o ~/src/droneru.github.com -s ~/src/droneru.github.com/source/settings.py
 clean:
 	rm *.html -f
 	rm author -rf
