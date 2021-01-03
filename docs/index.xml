@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changelog в картинках</title>
-    <link>droneru.github.io/</link>
+    <link>https://droneru.github.io/</link>
     <description>Recent content on Changelog в картинках</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/droneru&#34;&gt;Andrey Pavlenko&lt;/a&gt; 2021</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 12:54:03 +0300</lastBuildDate><atom:link href="droneru.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 12:54:03 +0300</lastBuildDate><atom:link href="https://droneru.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tabula rasa</title>
-      <link>droneru.github.io/posts/tabula_rasa/</link>
+      <link>https://droneru.github.io/posts/tabula_rasa/</link>
       <pubDate>Sun, 03 Jan 2021 12:54:03 +0300</pubDate>
       
-      <guid>droneru.github.io/posts/tabula_rasa/</guid>
+      <guid>https://droneru.github.io/posts/tabula_rasa/</guid>
       <description>Чистый лист</description>
     </item>
     

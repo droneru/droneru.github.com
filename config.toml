@@ -1,4 +1,4 @@
-baseURL = "droneru.github.io"
+baseURL = "https://droneru.github.io"
 languageCode = "ru"
 title = "Changelog в картинках"
 theme = "charaka-hugo-theme"
@@ -6,6 +6,7 @@ copyright = "&copy; <a href=\"https://github.com/droneru\">Andrey Pavlenko</a> 2
 googleAnalytics = "UA-96759973-1"
 disqusShortname = "droneru"
 publishdir="docs"
+#TODO метрика
 
 [params]
 
