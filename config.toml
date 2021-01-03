@@ -1,0 +1,29 @@
+baseURL = "droneru.github.io"
+languageCode = "ru"
+title = "Changelog в картинках"
+theme = "charaka-hugo-theme"
+copyright = "&copy; <a href=\"https://github.com/droneru\">Andrey Pavlenko</a> 2021"
+googleAnalytics = "UA-96759973-1"
+disqusShortname = "droneru"
+publishdir="docs"
+
+[params]
+
+[params.highlight]
+  style = "zenburn"
+
+#[[params.social]]
+#  url = "about.html"
+#  fa_icon = "fas fa-info" 
+
+[[params.social]]
+  url = "https://github.com/droneru"
+  fa_icon = "fab fa-github"
+
+#[[params.social]]
+#  url = "https://www.linkedin.com/in/natarajmb/"
+#  fa_icon = "fab fa-linkedin-in"
+
+#[[params.social]]
+#  url = "https://twitter.com/natarajmb"
+#  fa_icon = "fab fa-twitter"
