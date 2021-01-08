@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Drone</title>
-    <link>https://droneru.github.io/categories/</link>
+    <link>https://drone.ru/categories/</link>
     <description>Recent content in Categories on Drone</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/droneru&#34;&gt;Andrey Pavlenko&lt;/a&gt; 2021</copyright><atom:link href="https://droneru.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/droneru&#34;&gt;Andrey Pavlenko&lt;/a&gt; 2021</copyright><atom:link href="https://drone.ru/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
