@@ -1,6 +1,6 @@
 baseURL = "https://droneru.github.io"
 languageCode = "ru"
-title = "Changelog в картинках"
+title = "Drone"
 theme = "charaka-hugo-theme"
 copyright = "&copy; <a href=\"https://github.com/droneru\">Andrey Pavlenko</a> 2021"
 googleAnalytics = "UA-96759973-1"
