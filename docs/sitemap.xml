@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://drone.ru/</loc>
     <lastmod>2021-01-03T12:54:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://drone.ru/posts/</loc>
     <lastmod>2021-01-03T12:54:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tabula_rasa/</loc>
+    <loc>https://drone.ru/posts/tabula_rasa/</loc>
     <lastmod>2021-01-03T12:54:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://drone.ru/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://drone.ru/tags/</loc>
   </url>
 </urlset>
