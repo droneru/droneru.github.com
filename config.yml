@@ -1,0 +1,26 @@
+baseURL: https://drone.ru/
+languageCode: en-us
+title: Drone
+theme: PaperMod
+publishdir: docs
+enableRobotsTXT: true
+
+params:
+    defaultTheme: light # dark, auto
+    disableThemeToggle: true
+    ShowReadingTime: true
+    social: true
+
+    homeInfoParams:
+        Title: "Andrey Pavlenko"
+        Content: >
+            ghost engineer
+    socialIcons:
+        - name: github
+          url: "https://github.com/droneru"
+        - name: instagram
+          url: "https://www.instagram.com/drone220/"
+        - name: lastfm
+          url: "https://www.last.fm/user/droneru"
+        - name: RSS
+          url: "index.xml"
